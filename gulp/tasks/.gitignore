@@ -1,0 +1,3 @@
+# 特定のフォルダを除外
+minified_image/
+node_modules/
